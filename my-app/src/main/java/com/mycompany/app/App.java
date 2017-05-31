@@ -15,6 +15,7 @@ public class App
         /**
          * Checker prevents this from compiling...
          */
+    //control line to see the difference
     //    System.out.println("myObject: " + myObject.toString());
         /**
          * ... which is simply fantastic. It shows:
