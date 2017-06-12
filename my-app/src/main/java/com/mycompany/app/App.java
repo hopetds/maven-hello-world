@@ -29,7 +29,7 @@ public class App
     }
 }
 //asd
-/**
+
 public class Gapp
 {
     public static void main (String [] args(
@@ -37,4 +37,4 @@ public class Gapp
             System.out.println( "Error");
         }
         }
-*/
+
