@@ -28,3 +28,11 @@ public class App
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
     }
 }
+//asd
+public class Gapp
+{
+    public static void main (String [] args(
+        {
+            System.out.println( "Error");
+        }
+        }
